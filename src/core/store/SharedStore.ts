@@ -1,4 +1,4 @@
-import { create } from 'Zustand';
+import { create } from 'zustand';
 import { Message, SuggestionItem } from '../types/types';
 
 interface SharedState {
